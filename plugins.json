@@ -2,7 +2,7 @@
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://cinema.365ar.show&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/muxt0",
+        "repositoryUrl": "https://github.com/muxt0/cs-extensions",
         "fileSize": 16939,
         "status": 1,
         "language": "ar",
@@ -22,7 +22,7 @@
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.fushaar.com&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/muxt0",
+        "repositoryUrl": "https://github.com/muxt0/cs-extensions",
         "fileSize": 11561,
         "status": 1,
         "language": "ar",
@@ -38,10 +38,29 @@
         "url": "https://codeberg.org/Mark_Eshia/arab/raw/branch/builds/FushaarProvider.cs3",
         "name": "FushaarProvider"
     },
+    
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/muxt0/cs-extensions",
+        "fileSize": 14767,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "YY-KO"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 1,
+        "internalName": "FreeTVProvider",
+        "url": "https://github.com/muxt0/cs-extensions/raw/builds/FreeTVProvider.cs3",
+        "name": "FreeTVProvider"
+    },
     {
     "iconUrl": "https://www.google.com/s2/favicons?domain=https://fajer.show&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/muxt0",
+        "repositoryUrl": "https://github.com/muxt0/cs-extensions,
         "fileSize": 16939,
         "status": 1,
         "language": "ar",

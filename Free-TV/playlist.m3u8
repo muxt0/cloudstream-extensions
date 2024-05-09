@@ -5,6 +5,20 @@ https://206222.global.ssl.fastly.net/65045e4aba85cfe0025e4a60/live_c6c4040053cd1
 https://206222.global.ssl.fastly.net:443/65045e4aba85cfe0025e4a60/live_c6c4040053cd11ee95b47153d2861736/tracks-v1/index.fmp4.m3u8
 #EXTINF:1 tvg-logo="https://telegra.ph/file/e0dfb2e44d9c7b0276630.jpg" group-title="أخبار",LiveNOW from FOX
 https://fox-foxnewsnow-samsungus.amagi.tv:443/playlist720p.m3u8
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/7/71/Aljazeera.svg/288px-Aljazeera.svg.png" group-title="أخبار",قناة الجزيرة
+https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/c/c3/%D8%B4%D8%B9%D8%A7%D8%B1_%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D8%AC%D8%B2%D9%8A%D8%B1%D8%A9_%D9%85%D8%A8%D8%A7%D8%B4%D8%B1.svg/117px-%D8%B4%D8%B9%D8%A7%D8%B1_%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D8%AC%D8%B2%D9%8A%D8%B1%D8%A9_%D9%85%D8%A8%D8%A7%D8%B4%D8%B1.svg.png" group-title="أخبار",قناة الجزيرة مباشر
+https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
+#EXTINF:1 tvg-logo="https://telegra.ph/file/dad7608fdd90ecf82cc09.jpg" group-title="أخبار",قناة العالم
+https://live2.alalam.ir/live/Alalam/index.m3u8
+#EXTINF:1 tvg-logo="https://telegra.ph/file/abe1f08973bc519e1b65d.jpg" group-title="أخبار",قناة المنار
+https://manar.live/iptv/playlist.m3u8
+#EXTINF:1 tvg-logo="https://telegra.ph/file/ea18c7b4228976347dc8b.jpg" group-title="أخبار",قناة الميادين
+https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://telegra.ph/file/6eb7b3055d7e8dc3f76d5.jpg" group-title="أخبار",قناة المسيرة
+https://svs.itworkscdn.net/almasiralive/almasira/playlist.m3u8
+#EXTINF:1 tvg-logo="https://telegra.ph/file/c30ea0547d0d5ad66c511.png" group-title="عالمية",earthTV (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCRuyAVeVd7oUwh0LWmxxBBQ.m3u8
 #EXTINF:1 tvg-logo="" group-title="رياضة",Match HD (1080p)
 https://tv.streams.baikal-telecom.net/MatchHD/index.m3u8
 #EXTINF:1 tvg-logo="https://telegra.ph/file/0b06eab5026ebf50ed1fd.jpg" group-title="رياضة",SSC SPORTS HD 1
@@ -81,6 +95,8 @@ http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_2.m3u8
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Majid_TV_logo_2023.svg/320px-Majid_TV_logo_2023.svg.png" group-title="الأطفال",Majid Channel
 https://vo-live.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/index.m3u8
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/2/21/%D8%B4%D8%B9%D8%A7%D8%B1_%D9%82%D9%86%D8%A7%D8%A9_%D8%B7%D9%8A%D9%88%D8%B1_%D8%A7%D9%84%D8%AC%D9%86%D8%A9.svg/208px-%D8%B4%D8%B9%D8%A7%D8%B1_%D9%82%D9%86%D8%A7%D8%A9_%D8%B7%D9%8A%D9%88%D8%B1_%D8%A7%D9%84%D8%AC%D9%86%D8%A9.svg.png" group-title="الأطفال",طيور الجنة
+https://live.3cd.io/v1/broadcast/mtv/playlist.m3u8
 #EXTINF:1 tvg-logo="https://telegra.ph/file/95666cc3797b04fa99881.jpg" group-title="الأطفال",GULLI ARABIC
 https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/5454d215afba410c90b233f400730958/index_2.m3u8
 #EXTINF:1 tvg-logo="https://telegra.ph/file/ab3ae128480248001caeb.jpg" group-title="الأطفال",Hala London TV Cartoon
@@ -91,21 +107,9 @@ http://m.live.net.sa:1935/live/quran/chunklist.m3u8
 https://live.imamhossaintv.com/live/ih2.m3u8
 #EXTINF:1 tvg-logo="https://telegra.ph/file/60410314c7d25ef1b78be.jpg" group-title="دينية",قناة كربلاء الفضائية
 http://149.62.177.103:8000/play/a01b
-#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/7/71/Aljazeera.svg/288px-Aljazeera.svg.png" group-title="أخبار",قناة الجزيرة
-https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
-#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/c/c3/%D8%B4%D8%B9%D8%A7%D8%B1_%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D8%AC%D8%B2%D9%8A%D8%B1%D8%A9_%D9%85%D8%A8%D8%A7%D8%B4%D8%B1.svg/117px-%D8%B4%D8%B9%D8%A7%D8%B1_%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D8%AC%D8%B2%D9%8A%D8%B1%D8%A9_%D9%85%D8%A8%D8%A7%D8%B4%D8%B1.svg.png" group-title="أخبار",قناة الجزيرة مباشر
-https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
-#EXTINF:1 tvg-logo="https://telegra.ph/file/dad7608fdd90ecf82cc09.jpg" group-title="أخبار",قناة العالم
-https://live2.alalam.ir/live/Alalam/index.m3u8
-#EXTINF:1 tvg-logo="https://telegra.ph/file/abe1f08973bc519e1b65d.jpg" group-title="أخبار",قناة المنار
-https://manar.live/iptv/playlist.m3u8
-#EXTINF:1 tvg-logo="https://telegra.ph/file/ea18c7b4228976347dc8b.jpg" group-title="أخبار",قناة الميادين
-https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
-#EXTINF:1 tvg-logo="https://telegra.ph/file/6eb7b3055d7e8dc3f76d5.jpg" group-title="أخبار",قناة المسيرة
-https://svs.itworkscdn.net/almasiralive/almasira/playlist.m3u8
-#EXTINF:1 tvg-logo="https://telegra.ph/file/c30ea0547d0d5ad66c511.png" group-title="مباشر",earthTV (1080p) [Not 24/7]
-https://ythls.armelin.one/channel/UCRuyAVeVd7oUwh0LWmxxBBQ.m3u8
-#EXTINF:1 tvg-logo="" group-title="مباشر",راديو هلا
+#EXTINF:1 tvg-logo="" group-title="عربية",mtv
+https://live.3cd.io/v1/broadcast/mtv/playlist.m3u8
+#EXTINF:1 tvg-logo="" group-title="عالمية",راديو هلا
 https://api.new.livestream.com/accounts/8525652/events/4001070/live.m3u8
-#EXTINF:1 tvg-logo="" group-title="مباشر",Mychannel
+#EXTINF:1 tvg-logo="" group-title="عالمية",Mychannel
 http://muxt.uk.to/channel/1.ctv

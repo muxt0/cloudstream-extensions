@@ -39,6 +39,28 @@ http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/inde
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8?checkedby:iptvcat.com
 #EXTINF:1 tvg-logo="https://telegra.ph/file/80fc42b8fc06aa631f273.jpg" group-title="رياضة",Tennis Channel HD
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8?checkedby:iptvcat.com
+#EXTINF:1 tvg-logo="" group-title="رياضة",Aio Sport
+https://liveproxy.splus.ir/hls/aiosport/aiosport.m3u8
+#EXTINF:1 tvg-logo="https://telegra.ph/file/11f7028dfb62a854d5498.jpg" group-title="رياضة",IRIB Varzesh 360p
+https://live.aionet.ir/hls/varzesh/varzesh_360/index.m3u8
+#EXTINF:1 tvg-logo="https://telegra.ph/file/11f7028dfb62a854d5498.jpg" group-title="رياضة",IRIB Varzesh 480p
+https://live.aionet.ir/hls/varzesh/varzesh_480/index.m3u8
+#EXTINF:1 tvg-logo="https://telegra.ph/file/11f7028dfb62a854d5498.jpg" group-title="رياضة",IRIB Varzesh 1080p
+https://live.aionet.ir/hls/varzesh/varzesh.m3u8
+#EXTINF:1 tvg-logo="" group-title="رياضة",Persiana Sports
+https://edge11.97588.ir.cdn.ir/hls2/persiana.m3u8
+#EXTINF:1 tvg-logo="" group-title="رياضة",IRIB1 (720p)
+https://live.aionet.ir/hls/tv1/tv1.m3u8
+#EXTINF:1 tvg-logo="" group-title="رياضة",IRIB2 (540p)
+https://live.aionet.ir/hls/tv2/tv2.m3u8
+#EXTINF:1 tvg-logo="" group-title="رياضة",IRIB3 (480p)
+https://af.ayas.ir/hls2/tv3.m3u8
+#EXTINF:1 tvg-logo="" group-title="رياضة",IRIB4 (540p)
+https://live.aionet.ir/hls/tv4/tv4.m3u8
+#EXTINF:1 tvg-logo="" group-title="رياضة",IRIB5 (540p)
+https://live.aionet.ir/hls/tv5/tv5.m3u8
+#EXTINF:1 tvg-logo="" group-title="رياضة",Ariana TV (480p)
+https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8
 #EXTINF:1 tvg-logo="https://telegra.ph/file/4747b105caf264db87354.jpg" group-title="أخبار",alrabiaa Two SD
 https://206222.global.ssl.fastly.net/65045e4aba85cfe0025e4a60/live_c6c4040053cd11ee95b47153d2861736/tracks-v2a1/mono.m3u8
 #EXTINF:1 tvg-logo="https://telegra.ph/file/4747b105caf264db87354.jpg" group-title="أخبار",alrabiaa Two HD
@@ -73,28 +95,6 @@ https://manar.live/iptv/playlist.m3u8
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
 #EXTINF:1 tvg-logo="https://telegra.ph/file/6eb7b3055d7e8dc3f76d5.jpg" group-title="أخبار",قناة المسيرة
 https://svs.itworkscdn.net/almasiralive/almasira/playlist.m3u8
-#EXTINF:1 tvg-logo="" group-title="ايرانية",Aio Sport
-https://liveproxy.splus.ir/hls/aiosport/aiosport.m3u8
-#EXTINF:1 tvg-logo="https://telegra.ph/file/11f7028dfb62a854d5498.jpg" group-title="ايرانية",IRIB Varzesh 360p
-https://live.aionet.ir/hls/varzesh/varzesh_360/index.m3u8
-#EXTINF:1 tvg-logo="https://telegra.ph/file/11f7028dfb62a854d5498.jpg" group-title="ايرانية",IRIB Varzesh 480p
-https://live.aionet.ir/hls/varzesh/varzesh_480/index.m3u8
-#EXTINF:1 tvg-logo="https://telegra.ph/file/11f7028dfb62a854d5498.jpg" group-title="ايرانية",IRIB Varzesh 1080p
-https://live.aionet.ir/hls/varzesh/varzesh.m3u8
-#EXTINF:1 tvg-logo="" group-title="ايرانية",Persiana Sports
-https://edge11.97588.ir.cdn.ir/hls2/persiana.m3u8
-#EXTINF:1 tvg-logo="" group-title="ايرانية",IRIB1 (720p)
-https://live.aionet.ir/hls/tv1/tv1.m3u8
-#EXTINF:1 tvg-logo="" group-title="ايرانية",IRIB2 (540p)
-https://live.aionet.ir/hls/tv2/tv2.m3u8
-#EXTINF:1 tvg-logo="" group-title="ايرانية",IRIB3 (480p)
-https://af.ayas.ir/hls2/tv3.m3u8
-#EXTINF:1 tvg-logo="" group-title="ايرانية",IRIB4 (540p)
-https://live.aionet.ir/hls/tv4/tv4.m3u8
-#EXTINF:1 tvg-logo="" group-title="ايرانية",IRIB5 (540p)
-https://live.aionet.ir/hls/tv5/tv5.m3u8
-#EXTINF:1 tvg-logo="" group-title="ايرانية",Ariana TV (480p)
-https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8
 #EXTINF:1 tvg-logo="https://telegra.ph/file/c30ea0547d0d5ad66c511.png" group-title="مباشر",earthTV (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCRuyAVeVd7oUwh0LWmxxBBQ.m3u8
 #EXTINF:1 tvg-logo="" group-title="مباشر",راديو هلا

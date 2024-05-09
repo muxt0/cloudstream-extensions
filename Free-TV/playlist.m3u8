@@ -51,13 +51,13 @@ https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af
 http://208.115.225.174:14165/
 #EXTINF:1 tvg-logo="" group-title="Drama",HBO Family
 http://208.115.225.174:14144/
-#EXTINF:1 tvg-logo="https://telegra.ph/file/7853cdeee23437d7f880f.jpg" group-title="Cartoon",SPACETOON
+#EXTINF:1 tvg-logo="https://telegra.ph/file/7853cdeee23437d7f880f.jpg" group-title="قنوات الأطفال",SPACETOON
 http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8
-#EXTINF:1 tvg-logo="https://telegra.ph/file/d36f4eebd9c24986e192b.jpg" group-title="Cartoon",CN ARABIC HD
+#EXTINF:1 tvg-logo="https://telegra.ph/file/d36f4eebd9c24986e192b.jpg" group-title="قنوات الأطفال",CN ARABIC HD
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_2.m3u8
-#EXTINF:1 tvg-logo="https://telegra.ph/file/95666cc3797b04fa99881.jpg" group-title="Cartoon",GULLI ARABIC
+#EXTINF:1 tvg-logo="https://telegra.ph/file/95666cc3797b04fa99881.jpg" group-title="قنوات الأطفال",GULLI ARABIC
 https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/5454d215afba410c90b233f400730958/index_2.m3u8
-#EXTINF:1 tvg-logo="https://telegra.ph/file/ab3ae128480248001caeb.jpg" group-title="Cartoon",Hala London TV Cartoon
+#EXTINF:1 tvg-logo="https://telegra.ph/file/ab3ae128480248001caeb.jpg" group-title="قنوات الأطفال",Hala London TV Cartoon
 https://playlist.fasttvcdn.com/pl/aipomvl0iozr0ha530i0xw/Cartoon/playlist.m3u8
 #EXTINF:1 tvg-logo="https://telegra.ph/file/893b22febde6ef7756926.jpg" group-title="دينية",قناة القرآن الكريم مكة مباشر
 http://m.live.net.sa:1935/live/quran/chunklist.m3u8

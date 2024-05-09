@@ -87,6 +87,8 @@ https://206222.global.ssl.fastly.net/65045e4aba85cfe0025e4a60/live_c6c4040053cd1
 https://206222.global.ssl.fastly.net:443/65045e4aba85cfe0025e4a60/live_c6c4040053cd11ee95b47153d2861736/tracks-v1/index.fmp4.m3u8
 #EXTINF:1 tvg-logo="https://telegra.ph/file/7853cdeee23437d7f880f.jpg" group-title="الأطفال",SPACETOON
 http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://te.legra.ph/file/9d70cee30137845eb65be.jpg" group-title="الأطفال",MBC 3
+https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
 #EXTINF:1 tvg-logo="https://telegra.ph/file/d36f4eebd9c24986e192b.jpg" group-title="الأطفال",CN ARABIC HD
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_2.m3u8
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Majid_TV_logo_2023.svg/320px-Majid_TV_logo_2023.svg.png" group-title="الأطفال",Majid Channel
@@ -113,5 +115,3 @@ https://ythls.armelin.one/channel/UCRuyAVeVd7oUwh0LWmxxBBQ.m3u8
 https://ythls.armelin.one/video/HfgIFGbdGJ0.m3u8
 #EXTINF:1 tvg-logo="" group-title="عالمية",راديو هلا
 https://api.new.livestream.com/accounts/8525652/events/4001070/live.m3u8
-#EXTINF:1 tvg-logo="" group-title="عالمية",Mychannel
-https://ia601502.us.archive.org/24/items/mr-bean-the-complete-live-action-series/Mr.%20Bean%20S01E16%20-%20The%20Library%20%28Unaired%20Sketch%29.mp4

@@ -20,6 +20,25 @@
         "name": "365 SHOW"
     },
     {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=ak.sv&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/muxt0/cs-extensions",
+        "fileSize": 12712,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "YY-KO"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 10,
+        "internalName": "AkwamProvider",
+        "url": "https://github.com/muxt0/cs-extensions/raw/builds/AkwamProvider.cs3",
+        "name": "AkwamProvider"
+    },
+    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.fushaar.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/muxt0/cs-extensions",
@@ -37,24 +56,6 @@
         "internalName": "FushaarProvider",
         "url": "https://codeberg.org/Mark_Eshia/arab/raw/branch/builds/FushaarProvider.cs3",
         "name": "FushaarProvider"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/muxt0/cs-extensions",
-        "fileSize": 14767,
-        "status": 1,
-        "language": "ar",
-        "authors": [
-            "YY-KO"
-        ],
-        "tvTypes": [
-            "Live"
-        ],
-        "version": 1,
-        "internalName": "FreeTVProvider",
-        "url": "https://github.com/muxt0/cs-extensions/raw/builds/FreeTVProvider.cs3",
-        "name": "FreeTVProvider"
     },
     {
     "iconUrl": "https://www.google.com/s2/favicons?domain=https://fajer.show&sz=%size%",

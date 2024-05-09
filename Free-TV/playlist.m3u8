@@ -5,12 +5,6 @@ https://206222.global.ssl.fastly.net/65045e4aba85cfe0025e4a60/live_c6c4040053cd1
 https://206222.global.ssl.fastly.net:443/65045e4aba85cfe0025e4a60/live_c6c4040053cd11ee95b47153d2861736/tracks-v1/index.fmp4.m3u8
 #EXTINF:1 tvg-logo="https://telegra.ph/file/e0dfb2e44d9c7b0276630.jpg" group-title="أخبار",LiveNOW from FOX
 https://fox-foxnewsnow-samsungus.amagi.tv:443/playlist720p.m3u8
-#EXTINF:1 tvg-logo="https://telegra.ph/file/d86cc365813a8687d291d.jpg" group-title="دراما",MBC DRAMA PLUS HD
-https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
-#EXTINF:1 tvg-logo="" group-title="دراما",HBO Xtreme
-http://208.115.225.174:14165/
-#EXTINF:1 tvg-logo="" group-title="دراما",HBO Family
-http://208.115.225.174:14144/
 #EXTINF:1 tvg-logo="" group-title="رياضة",Match HD (1080p)
 https://tv.streams.baikal-telecom.net/MatchHD/index.m3u8
 #EXTINF:1 tvg-logo="https://telegra.ph/file/0b06eab5026ebf50ed1fd.jpg" group-title="رياضة",SSC SPORTS HD 1
@@ -73,6 +67,12 @@ https://live.aionet.ir/hls/tv4/tv4.m3u8
 https://live.aionet.ir/hls/tv5/tv5.m3u8
 #EXTINF:1 tvg-logo="" group-title="رياضة",Ariana TV (480p)
 https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8
+#EXTINF:1 tvg-logo="https://telegra.ph/file/d86cc365813a8687d291d.jpg" group-title="دراما",MBC DRAMA PLUS HD
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
+#EXTINF:1 tvg-logo="" group-title="دراما",HBO Xtreme
+http://208.115.225.174:14165/
+#EXTINF:1 tvg-logo="" group-title="دراما",HBO Family
+http://208.115.225.174:14144/
 #EXTINF:1 tvg-logo="https://telegra.ph/file/7853cdeee23437d7f880f.jpg" group-title="الأطفال",SPACETOON
 http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8
 #EXTINF:1 tvg-logo="https://telegra.ph/file/d36f4eebd9c24986e192b.jpg" group-title="الأطفال",CN ARABIC HD

@@ -13,8 +13,6 @@ https://live2.alalam.ir/live/Alalam/index.m3u8
 https://manar.live/iptv/playlist.m3u8
 #EXTINF:1 tvg-logo="https://telegra.ph/file/ea18c7b4228976347dc8b.jpg" group-title="أخبار",قناة الميادين
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
-#EXTINF:1 tvg-logo="https://telegra.ph/file/c30ea0547d0d5ad66c511.png" group-title="عالمية",earthTV (1080p) [Not 24/7]
-https://ythls.armelin.one/channel/UCRuyAVeVd7oUwh0LWmxxBBQ.m3u8
 #EXTINF:1 tvg-logo="" group-title="رياضة",Match HD (1080p)
 https://tv.streams.baikal-telecom.net/MatchHD/index.m3u8
 #EXTINF:1 tvg-logo="https://telegra.ph/file/0b06eab5026ebf50ed1fd.jpg" group-title="رياضة",SSC SPORTS HD 1
@@ -109,6 +107,10 @@ http://149.62.177.103:8000/play/a01b
 https://live.3cd.io/v1/broadcast/mtv/playlist.m3u8
 #EXTINF:1 tvg-logo="" group-title="عربية",Ammantv
 https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8
+#EXTINF:1 tvg-logo="https://telegra.ph/file/c30ea0547d0d5ad66c511.png" group-title="عالمية",earthTV١ (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCRuyAVeVd7oUwh0LWmxxBBQ.m3u8
+#EXTINF:1 tvg-logo="https://telegra.ph/file/dad7608fdd90ecf82cc09.jpg" group-title="عالمية",earthTV٢ (1080p) [Not 24/7]
+https://ythls.armelin.one/video/HfgIFGbdGJ0.m3u8
 #EXTINF:1 tvg-logo="" group-title="عالمية",راديو هلا
 https://api.new.livestream.com/accounts/8525652/events/4001070/live.m3u8
 #EXTINF:1 tvg-logo="" group-title="عالمية",Mychannel

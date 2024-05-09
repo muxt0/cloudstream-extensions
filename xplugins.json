@@ -39,6 +39,25 @@
         "name": "FushaarProvider"
     },
     {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.fushaar.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/muxt0/cs-extensions",
+        "fileSize": 11561,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "YY-KO"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 2,
+        "internalName": "FaselHDProvider",
+        "url": "https://github.com/muxt0/cs-extensions/raw/builds/FaselHDProvider.cs3",
+        "name": "FaselHDProvider"
+    },
+    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/muxt0/cs-extensions",
@@ -56,7 +75,7 @@
         "internalName": "AkwamProvider",
         "url": "https://github.com/muxt0/cs-extensions/raw/builds/AkwamProvider.cs3",
         "name": "AkwamProvider"
-    },  
+    },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=%size%",
         "apiVersion": 1,

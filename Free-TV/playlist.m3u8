@@ -69,6 +69,8 @@ https://live.aionet.ir/hls/tv5/tv5.m3u8
 https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8
 #EXTINF:1 tvg-logo="https://telegra.ph/file/d86cc365813a8687d291d.jpg" group-title="دراما",MBC DRAMA PLUS HD
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
+#EXTINF:1 tvg-logo="https://utviraq.net/wp-content/uploads/2020/12/logo-icon.png" group-title="دراما",Utv iraq
+https://mn-nl.mncdn.com/utviraqi2/64c80359/index.m3u8
 #EXTINF:1 tvg-logo="" group-title="دراما",HBO Xtreme
 http://208.115.225.174:14165/
 #EXTINF:1 tvg-logo="" group-title="دراما",HBO Family
@@ -77,6 +79,8 @@ http://208.115.225.174:14144/
 http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8
 #EXTINF:1 tvg-logo="https://telegra.ph/file/d36f4eebd9c24986e192b.jpg" group-title="الأطفال",CN ARABIC HD
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_2.m3u8
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Majid_TV_logo_2023.svg/320px-Majid_TV_logo_2023.svg.png" group-title="الأطفال",Majid Channel
+https://vo-live.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/index.m3u8
 #EXTINF:1 tvg-logo="https://telegra.ph/file/95666cc3797b04fa99881.jpg" group-title="الأطفال",GULLI ARABIC
 https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/5454d215afba410c90b233f400730958/index_2.m3u8
 #EXTINF:1 tvg-logo="https://telegra.ph/file/ab3ae128480248001caeb.jpg" group-title="الأطفال",Hala London TV Cartoon
@@ -87,6 +91,10 @@ http://m.live.net.sa:1935/live/quran/chunklist.m3u8
 https://live.imamhossaintv.com/live/ih2.m3u8
 #EXTINF:1 tvg-logo="https://telegra.ph/file/60410314c7d25ef1b78be.jpg" group-title="دينية",قناة كربلاء الفضائية
 http://149.62.177.103:8000/play/a01b
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/7/71/Aljazeera.svg/288px-Aljazeera.svg.png" group-title="أخبار",قناة الجزيرة
+https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/c/c3/%D8%B4%D8%B9%D8%A7%D8%B1_%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D8%AC%D8%B2%D9%8A%D8%B1%D8%A9_%D9%85%D8%A8%D8%A7%D8%B4%D8%B1.svg/117px-%D8%B4%D8%B9%D8%A7%D8%B1_%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D8%AC%D8%B2%D9%8A%D8%B1%D8%A9_%D9%85%D8%A8%D8%A7%D8%B4%D8%B1.svg.png" group-title="أخبار",قناة الجزيرة مباشر
+https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
 #EXTINF:1 tvg-logo="https://telegra.ph/file/dad7608fdd90ecf82cc09.jpg" group-title="أخبار",قناة العالم
 https://live2.alalam.ir/live/Alalam/index.m3u8
 #EXTINF:1 tvg-logo="https://telegra.ph/file/abe1f08973bc519e1b65d.jpg" group-title="أخبار",قناة المنار

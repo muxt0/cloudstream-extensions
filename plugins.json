@@ -58,6 +58,24 @@
         "name": "FushaarProvider"
     },
     {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/muxt0/cs-extensions",
+        "fileSize": 12541,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "YY-KO"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 1,
+        "internalName": "FreeTVProvider",
+        "url": "https://github.com/muxt0/cs-extensions/raw/builds/FreeTVProvider.cs3",
+        "name": "FreeTVProvider"
+    },
+    {
     "iconUrl": "https://www.google.com/s2/favicons?domain=https://fajer.show&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/muxt0/cs-extensions",

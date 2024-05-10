@@ -9,11 +9,11 @@ https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:1 tvg-logo="https://telegra.ph/file/6cda68dc2269fa8f0da72.jpg" group-title="أخبار",قناة المغربية الإخبارية
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8
-#EXTINF:1 tvg-logo="https://telegra.ph/file/dad7608fdd90ecf82cc09.jpg" group-title="أخبار",قناة العالم
+#EXTINF:1 tvg-logo="https://telegra.ph/file/3c264ea5a8354afdb0cff.jpg" group-title="أخبار",قناة العالم
 https://live2.alalam.ir/live/Alalam/index.m3u8
-#EXTINF:1 tvg-logo="https://telegra.ph/file/abe1f08973bc519e1b65d.jpg" group-title="أخبار",قناة المنار
+#EXTINF:1 tvg-logo="https://telegra.ph/file/c01ab62eb68c8b0427ab0.jpg" group-title="أخبار",قناة المنار
 https://manar.live/iptv/playlist.m3u8
-#EXTINF:1 tvg-logo="https://telegra.ph/file/ea18c7b4228976347dc8b.jpg" group-title="أخبار",قناة الميادين
+#EXTINF:1 tvg-logo="https://telegra.ph/file/ce1d653377685e2eb2383.jpg" group-title="أخبار",قناة الميادين
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
 #EXTINF:1 tvg-logo="" group-title="رياضة",Match HD (1080p)
 https://tv.streams.baikal-telecom.net/MatchHD/index.m3u8

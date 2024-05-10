@@ -5,7 +5,7 @@ https://fox-foxnewsnow-samsungus.amagi.tv:443/playlist720p.m3u8
 https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
 #EXTINF:1 tvg-logo="https://te.legra.ph/file/1e16c5d3592a4a00de7db.jpg" group-title="أخبار",قناة الجزيرة مباشر
 https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
-#EXTINF:1 tvg-logo="" group-title="أخبار",قناة العربية
+#EXTINF:1 tvg-logo="https://telegra.ph/file/7c6975042d3cdb21a2d76.jpg" group-title="أخبار",قناة العربية
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:1 tvg-logo="https://telegra.ph/file/6cda68dc2269fa8f0da72.jpg" group-title="أخبار",قناة المغربية الإخبارية
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8

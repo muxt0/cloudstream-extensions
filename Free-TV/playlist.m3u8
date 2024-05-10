@@ -7,6 +7,8 @@ https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
 https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
 #EXTINF:1 tvg-logo="" group-title="أخبار",قناة العربية
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://telegra.ph/file/6cda68dc2269fa8f0da72.jpg" group-title="أخبار",قناة المغربية الإخبارية
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8
 #EXTINF:1 tvg-logo="https://telegra.ph/file/dad7608fdd90ecf82cc09.jpg" group-title="أخبار",قناة العالم
 https://live2.alalam.ir/live/Alalam/index.m3u8
 #EXTINF:1 tvg-logo="https://telegra.ph/file/abe1f08973bc519e1b65d.jpg" group-title="أخبار",قناة المنار
@@ -77,6 +79,8 @@ https://live.aionet.ir/hls/tv5/tv5.m3u8
 https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8
 #EXTINF:1 tvg-logo="" group-title="رياضة",الشارقة سبورت
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://telegra.ph/file/fb5068adbdd2fde720e19.jpg" group-title="عربية",Royatv
+https://royatv-live.daioncdn.net/royatv/royatv.m3u8
 #EXTINF:1 tvg-logo="https://te.legra.ph/file/7cfcf617af8858cb9dace.jpg" group-title="عربية",mtv
 https://live.3cd.io/v1/broadcast/mtv/playlist.m3u8
 #EXTINF:1 tvg-logo="https://te.legra.ph/file/f4001d09bf898a0f7b229.jpg" group-title="عربية",Ammantv
@@ -89,11 +93,11 @@ https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/60
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
 #EXTINF:1 tvg-logo="https://te.legra.ph/file/75d9908d17f4a1a736540.jpg" group-title="ترفيه",Utv iraq
 https://mn-nl.mncdn.com/utviraqi2/64c80359/index.m3u8
-#EXTINF:1 tvg-logo="https://telegra.ph/file/4747b105caf264db87354.jpg" group-title="ترفيه",alrabiaa Two SD
+#EXTINF:1 tvg-logo="https://telegra.ph/file/68b26481acb00a8b4676d.jpg" group-title="ترفيه",alrabiaa Two SD
 https://206222.global.ssl.fastly.net/65045e4aba85cfe0025e4a60/live_c6c4040053cd11ee95b47153d2861736/tracks-v2a1/mono.m3u8
-#EXTINF:1 tvg-logo="https://telegra.ph/file/4747b105caf264db87354.jpg" group-title="ترفيه",alrabiaa Two HD
+#EXTINF:1 tvg-logo="https://telegra.ph/file/68b26481acb00a8b4676d.jpg" group-title="ترفيه",alrabiaa Two HD
 https://206222.global.ssl.fastly.net:443/65045e4aba85cfe0025e4a60/live_c6c4040053cd11ee95b47153d2861736/tracks-v1/index.fmp4.m3u8
-#EXTINF:1 tvg-logo="https://telegra.ph/file/7853cdeee23437d7f880f.jpg" group-title="الأطفال",SPACETOON
+#EXTINF:1 tvg-logo="https://telegra.ph/file/1c7bc18243df3e7755323.jpg" group-title="الأطفال",SPACETOON
 http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8
 #EXTINF:1 tvg-logo="https://te.legra.ph/file/9d70cee30137845eb65be.jpg" group-title="الأطفال",MBC 3
 https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
@@ -107,8 +111,10 @@ https://ythls.armelin.one/channel/UCZbpK_Lgctew3YNELlG2ecw.m3u8
 https://ythls-v2.onrender.com/channel/UCZ7V5FSAdPkRjPf64pPx9-Q.m3u8
 #EXTINF:1 tvg-logo="https://telegra.ph/file/c053a79e30630df090eb1.jpg" group-title="الأطفال",اطفال ومواهب
 https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/chunklist.m3u8
-#EXTINF:1 tvg-logo="https://telegra.ph/file/893b22febde6ef7756926.jpg" group-title="دينية",قناة القرآن الكريم مكة مباشر
+#EXTINF:1 tvg-logo="https://telegra.ph/file/f2a9e32cad9259b93ec44.jpg" group-title="دينية",قناة القرآن الكريم مكة مباشر
 http://m.live.net.sa:1935/live/quran/chunklist.m3u8
+#EXTINF:1 tvg-logo="https://telegra.ph/file/c9b83de64b1a9d11e9078.jpg" group-title="دينية",قناة مكة
+https://media2.streambrothers.com:1936/8122/8122/chunklist_w950114665.m3u8
 #EXTINF:1 tvg-logo="https://telegra.ph/file/ccd7e13370e0008f20f2b.jpg" group-title="دينية",قناة الإمام الحسين
 https://live.imamhossaintv.com/live/ih2.m3u8
 #EXTINF:1 tvg-logo="https://telegra.ph/file/60410314c7d25ef1b78be.jpg" group-title="دينية",قناة كربلاء الفضائية

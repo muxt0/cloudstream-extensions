@@ -77,6 +77,10 @@ https://live.aionet.ir/hls/tv5/tv5.m3u8
 https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8
 #EXTINF:1 tvg-logo="" group-title="رياضة",الشارقة سبورت
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://te.legra.ph/file/7cfcf617af8858cb9dace.jpg" group-title="عربية",mtv
+https://live.3cd.io/v1/broadcast/mtv/playlist.m3u8
+#EXTINF:1 tvg-logo="https://te.legra.ph/file/f4001d09bf898a0f7b229.jpg" group-title="عربية",Ammantv
+https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8
 #EXTINF:1 tvg-logo="https://telegra.ph/file/96fb7580064514417d449.jpg" group-title="ترفيه",Dubai TV
 https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist_b1500000.m3u8
 #EXTINF:1 tvg-logo="https://telegra.ph/file/c13fdb5b8d6e76421a377.jpg" group-title="ترفيه",Rotana Cinema
@@ -109,10 +113,6 @@ http://m.live.net.sa:1935/live/quran/chunklist.m3u8
 https://live.imamhossaintv.com/live/ih2.m3u8
 #EXTINF:1 tvg-logo="https://telegra.ph/file/60410314c7d25ef1b78be.jpg" group-title="دينية",قناة كربلاء الفضائية
 http://149.62.177.103:8000/play/a01b
-#EXTINF:1 tvg-logo="https://te.legra.ph/file/7cfcf617af8858cb9dace.jpg" group-title="عربية",mtv
-https://live.3cd.io/v1/broadcast/mtv/playlist.m3u8
-#EXTINF:1 tvg-logo="https://te.legra.ph/file/f4001d09bf898a0f7b229.jpg" group-title="عربية",Ammantv
-https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8
 #EXTINF:1 tvg-logo="https://telegra.ph/file/c30ea0547d0d5ad66c511.png" group-title="عالمية",earthTV١ (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCRuyAVeVd7oUwh0LWmxxBBQ.m3u8
 #EXTINF:1 tvg-logo="https://telegra.ph/file/c30ea0547d0d5ad66c511.png" group-title="عالمية",earthTV٢ (1080p) [Not 24/7]

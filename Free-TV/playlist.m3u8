@@ -99,6 +99,14 @@ https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m
 https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/profile_0/chunklist.m3u8
 #EXTINF:1 tvg-logo="https://telegra.ph/file/d86cc365813a8687d291d.jpg" group-title="ترفيه",MBC DRAMA PLUS HD
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
+#EXTINF:1 tvg-logo="https://legra.ph/file/4abe5c1efa23466b8fa5d.jpg" group-title="ترفيه",MBC Bollywood HD
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_3.m3u8
+#EXTINF:1 tvg-logo="https://legra.ph/file/33e0506820122ef56373a.jpg" group-title="ترفيه",MBC IRAQ HD
+https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_1.m3u8
+#EXTINF:1 tvg-logo="https://legra.ph/file/e6b4d8d2dbbe4ecfe3068.jpg" group-title="ترفيه",MBC4 HD
+https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_1.m3u8
+#EXTINF:1 tvg-logo="https://legra.ph/file/6abeb883987fd64b4b0a4.jpg" group-title="ترفيه",MBC MASR2 HD
+https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_1.m3u8
 #EXTINF:1 tvg-logo="https://te.legra.ph/file/75d9908d17f4a1a736540.jpg" group-title="ترفيه",Utv iraq
 https://mn-nl.mncdn.com/utviraqi2/64c80359/index.m3u8
 #EXTINF:1 tvg-logo="https://telegra.ph/file/68b26481acb00a8b4676d.jpg" group-title="ترفيه",alrabiaa Two SD
